@@ -1,5 +1,4 @@
-{
-  "feed": [
+[
     {
       "id": 1,
       "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/1.jpeg",
@@ -241,4 +240,3 @@
       }
     }
   ]
-}
